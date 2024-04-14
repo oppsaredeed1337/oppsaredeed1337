@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @oppsaredeed1337
-- 👀 I’m interested in Roff, Kotlin and Java
-- 🌱 I’m currently learning C++, GTA V Source Code Developing
+- 👀 I’m interested in Roff, Kotlin and Java, GTA V Source Code Developing
+- 🌱 I’m currently learning C++
